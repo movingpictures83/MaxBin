@@ -1,0 +1,2 @@
+contigs	plugins/MaxBin/example/assembly.fa
+reads_list plugins/MaxBin/example/readslist.txt

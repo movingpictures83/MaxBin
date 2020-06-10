@@ -1,0 +1,2 @@
+plugins/MaxBin/example/1.sam
+plugins/MaxBin/example/3.sam
