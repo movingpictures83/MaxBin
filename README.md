@@ -1,7 +1,9 @@
+# MaxBin
 # Language: C++
 # Input: TXT
 # Output: prefix
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: MaxBin 2.2.7
 
 PluMA plugin that interfaces to MaxBin (Wu et al., 2014) software for binning reads.
 
