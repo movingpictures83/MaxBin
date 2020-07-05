@@ -1,0 +1,2 @@
+Prefix plugins/MaxBin/example
+Plugin MaxBin inputfile parameters.txt outputfile output
