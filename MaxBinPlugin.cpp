@@ -20,7 +20,7 @@ void MaxBinPlugin::run() {}
 void MaxBinPlugin::output(std::string file) {
  std::string outputfile = file;
  std::string myCommand = "";
-myCommand += "run_MaxBin.pl -contig ";
+myCommand += "run_MaxBin.pl -preserve_intermediate -contig ";
 myCommand += parameters["contigs"];
 myCommand += " ";
 myCommand += "-out";
